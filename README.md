@@ -694,7 +694,7 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * What is an `AsyncTask`?
 * What are the problems in asynctask?
 * When would you use java thread instead of an asynctask?
-* What is the difference JVM, DVM and ART?
+* What is the difference JVM, DVM and ART? [Blog post] (http://androidjavapoint.blogspot.com/2017/04/closer-look-at-android-runtime-dvm-vs.html)
 * What is dex?
 * What is a canvas?
 * 
